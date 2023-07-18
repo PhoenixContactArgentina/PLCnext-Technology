@@ -3,8 +3,7 @@ Este repositorio fue desarrollado por el equipo de Phoenix Contact Argentina con
 
 Aquí vas a encontrar una gran cantidad de recursos teóricos y prácticos elaborados para ayudarte a comprender y aprovechar al máximo la potencia y las capacidades de la tecnología PLCnext.
 
-![imagen](https://github.com/PhoenixContactArgentina/PLCnext-Technology/assets/139789794/cc13c000-fa62-41a2-8e3e-1f0b17470d0e)
-
+![imagen](https://github.com/PhoenixContactArgentina/PLCnext-Technology/assets/139789794/237dabf0-bdef-4b30-928b-f63998aa2865)
 
 Nuestras guías están diseñadas para ser accesibles y comprensibles, incluso para aquellos sin experiencia previa en PLCnext. Si ya tenes conocimientos en esta área, vas a encontrar contenido más avanzado para llevar tus conocimientos al siguiente nivel.
 
