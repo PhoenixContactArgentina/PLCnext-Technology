@@ -14,5 +14,5 @@ Este repositorio se actualizará regularmente con nuevas guías y recursos, lo q
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/valentinbarneda" width=115><br><sub>Valentin Barneda</sub>](https://github.com/valentinbarneda) |  
-| :---: | 
+| [<img src="https://avatars.githubusercontent.com/valentinbarneda" width=115><br><sub>Valentin Barneda</sub>](https://github.com/valentinbarneda) | [<img src="https://avatars.githubusercontent.com/hernanlpz" width=115><br><sub>Hernan Lopez</sub>](https://github.com/hernanlpz) | 
+| :---: | :---: | 
