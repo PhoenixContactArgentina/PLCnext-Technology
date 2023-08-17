@@ -9,12 +9,6 @@ Nuestras guías están diseñadas para ser accesibles y comprensibles, incluso p
 
 Este repositorio se actualizará regularmente con nuevas guías y recursos, lo que garantiza que siempre vas a estar al tanto de las últimas prácticas y características de PLCnext.
 
-# Redes Sociales
-
-[![YouTube](https://img.shields.io/badge/YouTube-phoenixcontactargentina-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@phoenixcontactargentina/videos)
-[![Instagram](https://img.shields.io/badge/Instagram-@phoenixcontactar-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/phoenixcontactar/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-phoenixcontact-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/phoenix-contact/)
-
 # Enlaces Interesantes
 
 Aquí tienes algunos enlaces interesantes que podrían resultarte útiles:
@@ -24,6 +18,12 @@ Aquí tienes algunos enlaces interesantes que podrían resultarte útiles:
 - [PLCnext Store](https://www.plcnextstore.com/world/): Ampliá las funcionalidades de tu dispositivo PLCnext.
 - [PLCnext Info Center](https://www.plcnext.help/te/PLCnext_Engineer/Getting_started_with_PLCnext_Engineer.htm): Sumá más conocimientos generales sobre la Tecnología PLCnext.
 - [PLCnext Info Security Center](https://security.plcnext.help/se/About/Home.htm): Sumá más conocimientos sobre la Tecnología PLCnext y el mundo de la Ciberseguridad.
+
+# Redes Sociales
+
+[![YouTube](https://img.shields.io/badge/YouTube-phoenixcontactargentina-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@phoenixcontactargentina/videos)
+[![Instagram](https://img.shields.io/badge/Instagram-@phoenixcontactar-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/phoenixcontactar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phoenixcontact-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/phoenix-contact/)
 
 # Autores
 
